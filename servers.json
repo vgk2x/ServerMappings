@@ -1783,7 +1783,7 @@
         "id": "hydracraftnetwork",
 	"name": "HydraCraft Network",
 	"addresses": [
-	    "hydracraft.es"
+	    "mc.hydracraft.es"
 	]
     },
     {
@@ -1798,13 +1798,6 @@
         "name": "DarkMC Network",
         "addresses": [
             "dark-mc.xyz"
-        ]
-    },
-    {
-        "id": "neptunepvp",
-        "name": "Neptune Network",
-        "addresses": [
-            "neptunepvp.us"
         ]
     }
 ]
